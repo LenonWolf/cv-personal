@@ -1,11 +1,10 @@
 export default function Skills() {
   const skills = [
-    "Programación Web", 
-    "Internet de las Cosas (IoT)", 
-    "Microcontroladores (Arduino)", 
-    "React", 
-    "Tailwind CSS",
-    "Sensores Ópticos"
+    "Programación Web",
+    "Arduino",
+    "Java",
+    "Python",
+    "SQL"
   ];
 
   return (

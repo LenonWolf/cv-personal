@@ -5,10 +5,11 @@ export default function About() {
         Perfil
       </h2>
       <p className="text-slate-700 leading-relaxed text-lg">
-        Estudiante de 7mo semestre de ingeniería, enfocado en el aprendizaje continuo de nuevas tecnologías. 
-        Tengo un fuerte interés en la programación web y el Internet de las Cosas (IoT). Busco aplicar 
-        mis conocimientos en proyectos de software que resuelvan problemas reales, combinando hardware 
-        y desarrollo de aplicaciones.
+        Apasionado por la adquisición de nuevos conocimientos y la exploración
+        continua en campos emergentes. Busco oportunidades que me permitan
+        contribuir y desarrollarme en un entorno de investigación dinámico y
+        colaborativo, mientras adquiero habilidades para desarrollar mis propios
+        proyectos innovadores.
       </p>
     </section>
   );

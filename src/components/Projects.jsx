@@ -3,12 +3,12 @@ export default function Projects() {
     {
       title: "RAITEC",
       description: "Aplicación móvil diseñada para estudiantes con un modelo de viaje compartido similar a Blablacar. Desarrollada como parte de Tópicos Selectos de Ingeniería de Software.",
-      tags: ["Ingeniería de Software", "Desarrollo Móvil", "UX/UI"]
+      tags: ["Ingeniería de Software", "Desarrollo Móvil", "Database"]
     },
     {
       title: "Gamificación Educativa",
       description: "Proyecto de investigación y desarrollo para implementar estrategias de gamificación en Fundamentos de Programación, con el objetivo de reducir el índice de reprobación.",
-      tags: ["Educación", "Lógica de Programación", "Investigación"]
+      tags: ["Educación", "Innovación", "Investigación"]
     }
   ];
 
