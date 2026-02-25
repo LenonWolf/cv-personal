@@ -5,7 +5,6 @@ export default function Skills() {
     "Microcontroladores (Arduino)", 
     "React", 
     "Tailwind CSS",
-    "Matemáticas Discretas",
     "Sensores Ópticos"
   ];
 
