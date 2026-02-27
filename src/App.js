@@ -1,17 +1,13 @@
-import Header from './components/Header';
-import About from './components/About';
-import Projects from './components/Projects';
-import Skills from './components/Skills';
+import MainContent from './components/MainContent';
+import Sidebar from './components/Sidebar';
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-slate-50 font-sans text-slate-900">
-      <Header />
-      <main className="pb-16 pt-8">
-        <About />
-        <Projects />
-        <Skills />
-      </main>
+    <div className="min-h-screen bg-slate-200 py-10 px-4 font-sans">
+      <div className="max-w-5xl mx-auto bg-white shadow-2xl overflow-hidden flex flex-col md:flex-row rounded-lg">
+        <MainContent />
+        <Sidebar />
+      </div>
     </div>
   );
 }
